@@ -1,0 +1,1 @@
+Para descrição, considerar todos os scripts. Mas para reprodução, considerar apenas a partir do Script5-Limiar.ipynb.
